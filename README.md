@@ -16,8 +16,10 @@ _Do work!_
 
 </pre>
 
+# Doe Clocker Thee Pomodoro Timer
 
-![DoeClocker](src/images/DOE_CLOCKER.png)
+![DoeClocfker](src/images/Doe_Clocker_Thee_Pomodoro_Timer_SS.png)
+
 
 
 
@@ -44,3 +46,6 @@ Nothing.
 ---
 ---
 <sub>______</sub>
+
+![DoeClocker](src/images/DOE_CLOCKER.png)
+
